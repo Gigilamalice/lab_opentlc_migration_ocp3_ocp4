@@ -1,0 +1,665 @@
+{
+  "level": "fatal",
+  "msg": "Exiting.: interrupt",
+  "time": "2020-05-12T08:18:42Z"
+}
+{
+  "level": "info",
+  "msg": "Starting manifest and report generation",
+  "time": "2020-05-12T08:25:53Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - API",
+  "time": "2020-05-12T08:25:53Z"
+}
+{
+  "level": "info",
+  "msg": "APITransform::Extract",
+  "time": "2020-05-12T08:25:53Z"
+}
+{
+  "level": "info",
+  "msg": "APITransform::Transform:Reports",
+  "time": "2020-05-12T08:25:53Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - Cluster",
+  "time": "2020-05-12T08:25:53Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterTransform::Transform:Reports",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterReport::ReportQuotas",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterReport::ReportPVs",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterReport::ReportNamespaces",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterReport::ReportNodes",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterReport::ReportRBAC",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterReport::ReportStorageClasses",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - Crio",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "CrioTransform::Extract",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "warning",
+  "msg": "Skipping Crio: No configuration file available\n",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - Docker",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "DockerTransform::Extract",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "DockerTransform::Transform:Reports",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - ETCD",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "ETCDTransform::Extract",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "ETCDTransform::Transform:Reports",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - OAuth",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "OAuthTransform::Extract",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "OAuthTransform::Transform:Reports",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - SDN",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "SDNTransform::Extract",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "SDNTransform::Transform:Reports",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - Image",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "ImageTransform::Extract",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "ImageTransform::Transform:Reports",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - Project",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "ProjectTransform::Extract",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "ProjectTransform::Transform:Reports",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "Flushing reports to disk",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "Report:Added: report.json",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "Report:Added: report.html",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "Succesfully finished transformations",
+  "time": "2020-05-12T08:26:05Z"
+}
+{
+  "level": "info",
+  "msg": "Starting manifest and report generation",
+  "time": "2020-05-12T08:53:04Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - API",
+  "time": "2020-05-12T08:53:04Z"
+}
+{
+  "level": "info",
+  "msg": "APITransform::Extract",
+  "time": "2020-05-12T08:53:04Z"
+}
+{
+  "level": "info",
+  "msg": "APITransform::Transform:Reports",
+  "time": "2020-05-12T08:53:04Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - Cluster",
+  "time": "2020-05-12T08:53:04Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterTransform::Transform:Reports",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterReport::ReportQuotas",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterReport::ReportPVs",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterReport::ReportNamespaces",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterReport::ReportNodes",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterReport::ReportRBAC",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterReport::ReportStorageClasses",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - Crio",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "CrioTransform::Extract",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "warning",
+  "msg": "Skipping Crio: No configuration file available\n",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - Docker",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "DockerTransform::Extract",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "DockerTransform::Transform:Reports",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - ETCD",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "ETCDTransform::Extract",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "ETCDTransform::Transform:Reports",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - OAuth",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "OAuthTransform::Extract",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "OAuthTransform::Transform:Reports",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - SDN",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "SDNTransform::Extract",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "SDNTransform::Transform:Reports",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - Image",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "ImageTransform::Extract",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "ImageTransform::Transform:Reports",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - Project",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "ProjectTransform::Extract",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "ProjectTransform::Transform:Reports",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "Flushing reports to disk",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "Report:Added: report.json",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "Report:Added: report.html",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "Succesfully finished transformations",
+  "time": "2020-05-12T08:53:16Z"
+}
+{
+  "level": "info",
+  "msg": "Starting manifest and report generation",
+  "time": "2020-05-12T10:12:44Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - API",
+  "time": "2020-05-12T10:12:44Z"
+}
+{
+  "level": "info",
+  "msg": "APITransform::Extract",
+  "time": "2020-05-12T10:12:44Z"
+}
+{
+  "level": "info",
+  "msg": "APITransform::Transform:Reports",
+  "time": "2020-05-12T10:12:44Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - Cluster",
+  "time": "2020-05-12T10:12:44Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterTransform::Transform:Manifests",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterTransform::Transform:Reports",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterReport::ReportQuotas",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterReport::ReportPVs",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterReport::ReportNamespaces",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterReport::ReportNodes",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterReport::ReportRBAC",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "ClusterReport::ReportStorageClasses",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "Flushing manifests to disk",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - Crio",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "CrioTransform::Extract",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "warning",
+  "msg": "Skipping Crio: No configuration file available\n",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - Docker",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "DockerTransform::Extract",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "DockerTransform::Transform:Reports",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - ETCD",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "ETCDTransform::Extract",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "ETCDTransform::Transform:Reports",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - OAuth",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "OAuthTransform::Extract",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "OAuthTransform::Transform:Manifests",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "OAuthTransform::Transform:Reports",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "Flushing manifests to disk",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "CRD:Added: manifests/100_CPMA-cluster-config-oauth.yaml",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "CRD:Added: manifests/100_CPMA-cluster-config-secret-htpasswd-secret.yaml",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - SDN",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "SDNTransform::Extract",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "SDNTransform::Transform:Manifests",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "SDNTransform::Transform:Reports",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "Flushing manifests to disk",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "CRD:Added: manifests/100_CPMA-cluster-config-sdn.yaml",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - Image",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "ImageTransform::Extract",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "ImageTransform::Transform:Manifests",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "ImageTransform::Transform:Reports",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "Flushing manifests to disk",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "CRD:Added: manifests/100_CPMA-cluster-config-image.yaml",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - Project",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "ProjectTransform::Extract",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "ProjectTransform::Transform:Manifests",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "ProjectConfig.DefaultNodeSelector is handled by scheduler",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "ProjectTransform::Transform:Reports",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "Flushing manifests to disk",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "CRD:Added: manifests/100_CPMA-cluster-config-project.yaml",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "Flushing reports to disk",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "Report:Added: report.json",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "Report:Added: report.html",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "Succesfully finished transformations",
+  "time": "2020-05-12T10:12:56Z"
+}
+{
+  "level": "info",
+  "msg": "Starting manifest and report generation",
+  "time": "2020-05-19T18:02:03Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - API",
+  "time": "2020-05-19T18:02:03Z"
+}
+{
+  "level": "info",
+  "msg": "APITransform::Extract",
+  "time": "2020-05-19T18:02:03Z"
+}
+{
+  "level": "info",
+  "msg": "APITransform::Transform:Reports",
+  "time": "2020-05-19T18:02:03Z"
+}
+{
+  "level": "info",
+  "msg": "Transform:Starting for - Cluster",
+  "time": "2020-05-19T18:02:03Z"
+}
